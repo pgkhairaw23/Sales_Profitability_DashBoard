@@ -1,4 +1,7 @@
 # Sales_Profitability_DashBoard
+
+<img width="1375" height="772" alt="Screenshot 2026-09-17 154522" src="https://github.com/user-attachments/assets/287e43a3-f3b9-4e1e-bebf-ad4cf14ef0a3" />
+
 💰 Sales Profitability Dashboard
 
 An interactive Power BI / Tableau-style dashboard built to analyze sales performance, profitability, and trends across regions and product categories.
@@ -19,5 +22,5 @@ Bikes is the top-performing product category by sales
 West region leads with 28.2% of total sales, followed by East (26.14%)
 Sales peaked in September (67K) and April (65K), with dips in June–July and November
 Overall profit margin stands at 18%
-<img width="1375" height="772" alt="Screenshot 2026-09-17 154522" src="https://github.com/user-attachments/assets/287e43a3-f3b9-4e1e-bebf-ad4cf14ef0a3" />
+
 
